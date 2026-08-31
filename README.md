@@ -22,7 +22,6 @@ Meta-control/
 │
 ├── physics_abstraction_master/
 │   ├── python/
-│   ├── motion_distributions/
 │   └── data/json/
 │       ├── experiment1/
 │       └── experiment2/
